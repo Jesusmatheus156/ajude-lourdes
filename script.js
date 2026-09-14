@@ -2,7 +2,7 @@ const CONFIG = {
     pix: "124.638.074-90",
 
     instagramVideo:
-        "https://www.instagram.com/reel/DRcV-ET8hw/?igsh=cmprcjcxd2E3Y2x2",
+        "https://www.instagram.com/reel/DdRcV-ET8hw/?stkn=cmprcjcxdzE3Y2x2",
 
     instagramProfile:
         "https://www.instagram.com/ajudeminhamaeasorrir/",
