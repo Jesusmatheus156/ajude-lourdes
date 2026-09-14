@@ -1,9 +1,9 @@
 const CONFIG = {
   pix: "124.638.074-90",
-  instagramVideo: "COLE_AQUI_O_LINK_DO_VIDEO_DO_INSTAGRAM",
-  instagramProfile: "COLE_AQUI_O_LINK_DO_INSTAGRAM",
-  tiktok: "COLE_AQUI_O_LINK_DO_TIKTOK",
-  kwai: "COLE_AQUI_O_LINK_DO_KWAI"
+  instagramVideo: "https://www.instagram.com/reel/DdRcV-ET8hw/?stkn=cmprcjcxdzE3Y2x2",
+  instagramProfile: "https://www.instagram.com/ajudeminhamaeasorrir?stkn=MXRkdnlrb2YyNWszcw==",
+  tiktok: "https://www.tiktok.com/@ajudeminhamaeasorrir?_r=1&_t=ZS-99jGqKueT3a",
+  kwai: "https://k.kwai.com/u/@ajudeminhamaeasorrir/cxSgLmCd"
 };
 
 function setLink(id,url){
